@@ -9,10 +9,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Encoding the data and Import Decision tree classifier.
 3. Fit the data in the model.
 4. Find the MSE , r2 and the Predicted.
-
 ## Program:
 ```
-/*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by: BALAMURUGAN B
 RegisterNumber: 212222230016
@@ -39,10 +37,7 @@ mse
 r2=metrics.r2_score(y_test,y_pred)
 r2
 dt.predict([[5,7]])
-
-*/
 ```
-
 ## Output:
 
 ### DATASET
